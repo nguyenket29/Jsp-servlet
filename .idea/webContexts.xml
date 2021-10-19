@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/common/admin/header.jsp" value="file://$PROJECT_DIR$/src/main/webapp/common/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/common/admin/menu.jsp" value="file://$PROJECT_DIR$/src/main/webapp/common/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/common/taglib.jsp" value="file://$PROJECT_DIR$/src/main/webapp/common" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/common/web/header.jsp" value="file://$PROJECT_DIR$/src/main/webapp/common/web" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/decorators/admin.jsp" value="file://$PROJECT_DIR$/src/main/webapp/decorators" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/decorators/web.jsp" value="file://$PROJECT_DIR$/src/main/webapp/decorators" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/home.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/home_admin.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/new/edit.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin/new" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/admin/new/list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/admin/new" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/resgister/register.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/resgister" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/web/home.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/web" />
+      </map>
+    </option>
+  </component>
+</project>
